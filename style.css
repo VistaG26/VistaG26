@@ -5,4 +5,4 @@ html {
 h1{text-align:center;color:Blue;Font-Family:Times New Roman}
 body{background-color:lime;border:5px solid gray;margin-left:auto;margin-right:auto;max-width:1024px;min-width:256px;border-radius:23px;}
 ul{Ust-style_type:none;}
-li{display:inline;padding:4px;}
+li{display:inline;padding:4px;margin-left:auto;margin-right:auto;}
